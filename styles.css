@@ -1,0 +1,28 @@
+img {
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+li {
+    line-height: 1.6;
+}
+
+hr {
+    margin: 1px 0;
+    border: 1px solid black;
+}
+
+h2 {
+    margin-bottom: 1px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#mainHeader {
+    text-align: center;
+}
